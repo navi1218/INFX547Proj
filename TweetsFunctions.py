@@ -84,7 +84,7 @@ def getTweets(user, filename, api):
                 for tweet in new_tweets:
                     json.dump(tweet._json, f, indent = 4, sort_keys = True)
                     f.write('\n')
-                    print("Wrote tweets")
+#                    print("Wrote tweets")
                 
                 
                 tweet_count += len(new_tweets)
@@ -93,6 +93,8 @@ def getTweets(user, filename, api):
             except tweepy.TweepError as e:
                 print('some error : ' + str(e))
                 break
+            
+        print("Reached max tweets")
             
             
 #%% Search Tweets
@@ -143,7 +145,7 @@ def searchTweets(query, filename, api):
                 for tweet in new_tweets:
                     json.dump(tweet._json, f, indent = 4, sort_keys = True)
                     f.write('\n')
-                    print("Wrote tweets")
+#                    print("Wrote tweets")
                 
                 
                 tweet_count += len(new_tweets)
@@ -152,3 +154,5 @@ def searchTweets(query, filename, api):
             except tweepy.TweepError as e:
                 print('some error : ' + str(e))
                 break
+            
+        print("Reached max tweets")

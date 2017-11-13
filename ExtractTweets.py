@@ -17,6 +17,8 @@ tweets, post comments, and tweets containing associated hashtags.
 import tweepy
 import json
 import sys
+import os
+
 
 #%% Add path for import
 
@@ -48,3 +50,10 @@ api
 
 tf.getTweets("glossier", "Glossier_tweets.json", api)
 
+#%% Search Tweets
+
+tf.searchTweets("#glossier", "Hashtag_glossier.json", api)
+
+tf.searchTweets("#glossierpink", "Hashtag_glossierpink.json", api)
+
+tf.searchTweets("#nofilterjustglossier", "Hashtag_nofilterjustglossier.json", api)

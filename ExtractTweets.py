@@ -19,8 +19,7 @@ import json
 import sys
 import os
 
-
-#%% Add path for import
+## Add path for import
 
 # Have to add the path of the current project so that python knows where to 
 # import the TweetsFunctions.py from
@@ -29,8 +28,6 @@ sys.path.append("C:\\Users\\cdpha\\Google Drive\\Classes\\INFX 547 Social Media 
 sys.path.append("C:\\Users\\Casey\\Google Drive\\Classes\\INFX 547 Social Media Data Mining\\INFX547Proj")
 
 print(sys.path)
-
-#%%
 
 import TweetsFunctions as tf
 
@@ -57,3 +54,5 @@ tf.searchTweets("#glossier", "Hashtag_glossier.json", api)
 tf.searchTweets("#glossierpink", "Hashtag_glossierpink.json", api)
 
 tf.searchTweets("#nofilterjustglossier", "Hashtag_nofilterjustglossier.json", api)
+                
+tf.searchTweets("glossier", "Search_glossier.json", api)

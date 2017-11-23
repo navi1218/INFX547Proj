@@ -48,14 +48,14 @@ def getTweets(user, filename, api):
     print("Downloading at least {} tweets".format(maxTweets))
     
     with open(filename,"r+") as f:
-        print("Opened " + filename)
-        
-        data = json.load(f)
-        
-        if len(data) > 0:
-        
-            last_tweet = data[-1]
-            max_id = last_tweet["id"]
+#        print("Opened " + filename)
+#        
+#        data = json.load(f)
+#        
+#        if len(data) > 0:
+#        
+#            last_tweet = data[-1]
+#            max_id = last_tweet["id"]
         
         while tweet_count <= maxTweets:
             
@@ -119,12 +119,12 @@ def searchTweets(query, filename, api):
     
     with open(filename,"r+") as f:
         
-        data = json.load(f)
-        
-        if len(data) > 0:
-        
-            last_tweet = data[-1]
-            max_id = last_tweet["id"]
+#        data = json.load(f)
+#        
+#        if len(data) > 0:
+#        
+#            last_tweet = data[-1]
+#            max_id = last_tweet["id"]
         
         print("Opened " + filename)
         

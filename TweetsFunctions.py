@@ -47,8 +47,8 @@ def getTweets(user, filename, api):
     
     print("Downloading at least {} tweets".format(maxTweets))
     
-    with open(filename,"r+") as f:
-#        print("Opened " + filename)
+    with open(filename,"w+") as f:
+        print("Opened " + filename)
 #        
 #        data = json.load(f)
 #        
@@ -117,7 +117,7 @@ def searchTweets(query, filename, api):
     
     print("Downloading at least {} tweets".format(maxTweets))
     
-    with open(filename,"r+") as f:
+    with open(filename,"w+") as f:
         
 #        data = json.load(f)
 #        

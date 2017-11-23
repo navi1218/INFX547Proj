@@ -59,15 +59,15 @@ tf.searchTweets("glossier", "Search_glossier.json", api)
 
 #%%
 
-tf.searchTweets("glossiergirl", "Search_glossiergirl", api)
+tf.searchTweets("glossiergirl", "Search_glossiergirl.json", api)
 
-tf.searchTweets("#glossiergirl", "Hashtag_glossiergirl", api)
+tf.searchTweets("#glossiergirl", "Hashtag_glossiergirl.json", api)
 
-tf.searchTweets("boybrow", "Search_boybrow", api)
+tf.searchTweets("boybrow", "Search_boybrow.json", api)
 
-tf.searchTweets("#boybrow", "Hashtag_boybrow", api)
+tf.searchTweets("#boybrow", "Hashtag_boybrow.json", api)
 
-tf.searchTweets("balmdotcom", "Search_balmdotcom", api)
+tf.searchTweets("balmdotcom", "Search_balmdotcom.json", api)
 
-tf.searchTweets("#balmdotcom", "Hashtag_balmdotcom", api)
+tf.searchTweets("#balmdotcom", "Hashtag_balmdotcom.json", api)
 

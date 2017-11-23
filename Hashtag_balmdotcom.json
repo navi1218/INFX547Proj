@@ -1,0 +1,342 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 22 02:53:10 +0000 2017",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/9\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/933166434561138688",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/7jGegIOCRi"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 933166434561138688,
+    "id_str": "933166434561138688",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "text": "Glossier lets you build your own 3-pack of balm dot com. I may have bundled 3 x Rose balms... Can't argue with the\u2026 https://t.co/7jGegIOCRi",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 02 05:29:48 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Glossier Promo Code - Take 20% off your first Glossier beauty purchase! Use link below to unlock discount.",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/Glossier-Promo\u2026",
+                        "expanded_url": "http://bit.ly/Glossier-Promo-Code",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/CQy6pJetYx"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 9,
+        "follow_request_sent": null,
+        "followers_count": 6,
+        "following": null,
+        "friends_count": 32,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 716135521735417857,
+        "id_str": "716135521735417857",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 2,
+        "location": "",
+        "name": "Mary Catherine",
+        "notifications": null,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/716135521735417857/1508191556",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/920048125594816513/jGlxTEpf_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/920048125594816513/jGlxTEpf_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GlossierPromo",
+        "statuses_count": 159,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/CQy6pJetYx",
+        "utc_offset": null,
+        "verified": false
+    }
+}
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 21 10:35:49 +0000 2017",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    56,
+                    67
+                ],
+                "text": "balmdotcom"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/9\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/932920477298905088",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/pmSoQ5BoWx"
+            }
+        ],
+        "user_mentions": [
+            {
+                "id": 2610470250,
+                "id_str": "2610470250",
+                "indices": [
+                    44,
+                    53
+                ],
+                "name": "Glossier",
+                "screen_name": "glossier"
+            }
+        ]
+    },
+    "favorite_count": 1,
+    "favorited": false,
+    "geo": null,
+    "id": 932920477298905088,
+    "id_str": "932920477298905088",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+    "text": "So, after my less than favourable review of @glossier\u2019s #balmdotcom (and the fact that they gave me \u00a35 for said ord\u2026 https://t.co/pmSoQ5BoWx",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 11 08:01:00 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "London born, Hong Kong raised. Blogger. Linguist. Graphic designer in training. 24. \u2709\ufe0f isobel@isobel-rose.com",
+        "entities": {
+            "description": {
+                "urls": []
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "isobel-rose.com",
+                        "expanded_url": "http://www.isobel-rose.com",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/yHsGd0CHGr"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 38591,
+        "follow_request_sent": null,
+        "followers_count": 668,
+        "following": null,
+        "friends_count": 436,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 96083952,
+        "id_str": "96083952",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en-gb",
+        "listed_count": 64,
+        "location": "London, UK",
+        "name": "Isobel",
+        "notifications": null,
+        "profile_background_color": "709397",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/96083952/1504646352",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/922385499389652992/zv6hVgg7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/922385499389652992/zv6hVgg7_normal.jpg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "DBE9ED",
+        "profile_sidebar_fill_color": "E6F6F9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "isobelrose27",
+        "statuses_count": 18299,
+        "time_zone": "London",
+        "translator_type": "none",
+        "url": "https://t.co/yHsGd0CHGr",
+        "utc_offset": 0,
+        "verified": false
+    }
+}
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 13 17:34:49 +0000 2017",
+    "entities": {
+        "hashtags": [
+            {
+                "indices": [
+                    23,
+                    32
+                ],
+                "text": "Glossier"
+            },
+            {
+                "indices": [
+                    57,
+                    70
+                ],
+                "text": "birthdaycake"
+            },
+            {
+                "indices": [
+                    71,
+                    82
+                ],
+                "text": "balmdotcom"
+            }
+        ],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "bff.glossier.com/gES50",
+                "expanded_url": "http://bff.glossier.com/gES50",
+                "indices": [
+                    84,
+                    107
+                ],
+                "url": "https://t.co/KAnjviqQti"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 930126822053896192,
+    "id_str": "930126822053896192",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Want 10% off your next #Glossier order? You def need the #birthdaycake #balmdotcom! https://t.co/KAnjviqQti",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 05 16:22:46 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "favourites_count": 4,
+        "follow_request_sent": null,
+        "followers_count": 32,
+        "following": null,
+        "friends_count": 89,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 22938708,
+        "id_str": "22938708",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": "en",
+        "listed_count": 12,
+        "location": "",
+        "name": "Khahy",
+        "notifications": null,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1541077897/sparkler2_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1541077897/sparkler2_normal.JPG",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "khahy",
+        "statuses_count": 2021,
+        "time_zone": "Quito",
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": -18000,
+        "verified": false
+    }
+}

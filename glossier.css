@@ -1,0 +1,37 @@
+a.menu:link, a.menu:visited { 
+    color:#F6A8B6;
+    text-decoration : none;
+    font-family: "Lora", serif;
+}
+
+a.menu:hover, .menu:active { 
+    color:#FFF0F5;
+    text-decoration : none;
+    font-family: "Lora", serif;
+}
+
+
+h5.subtitle {
+    color:#222;
+    text-decoration : none;
+    font-weight: 100;
+    background-color: #FFF0F5;
+}
+
+#mainheader {
+    position: relative;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    opacity:0.9;
+    width: inherit;
+    
+}
+
+.full-width-container {
+    width: 100%;
+    max-width: 100%;
+    clear: both;
+    margin: 0 auto;
+}
+
